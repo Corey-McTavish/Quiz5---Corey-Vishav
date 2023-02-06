@@ -1,4 +1,4 @@
 # Quiz5---Corey-Vishav
-github usernames:
+GitHub username's:
 Corey-McTavish
 Vishav-Josan

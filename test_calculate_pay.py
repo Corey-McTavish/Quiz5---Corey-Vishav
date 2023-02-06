@@ -14,8 +14,3 @@ class TestCalculate(TestCase):
 
     def test_over_40_hours(self):
         self.assertEqual(600.0, calculate_pay(50, 10))
-
-
-
-
-
