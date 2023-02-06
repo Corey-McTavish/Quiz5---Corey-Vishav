@@ -14,7 +14,7 @@ def calculate_pay(hours, wage):
     600.0
     """
     weekly_pay = 0
-    if hours < 0:
+    if hours < 0 or wage < 0:
         return float(weekly_pay)
     elif hours <= 40:
         weekly_pay += (hours * wage)
